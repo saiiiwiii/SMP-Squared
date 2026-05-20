@@ -5,10 +5,6 @@ file = ".packignore"
 hash = "bb3f696a11b3e4c26394729ab9c2ba5555e4fe06b8885ccf5ca828a9cb40c03a"
 
 [[files]]
-file = "README.md"
-hash = "32e143384afe97143d4b0f637b8eae2f2b8d3a45cc0fdaa1c15c76a4f57e82ec"
-
-[[files]]
 file = "config/ClickMobs/config.yml"
 hash = "45f434b3dad0f753c7ae47e27fa493ac60306ba367624d2ab9b6a15945bcedee"
 
