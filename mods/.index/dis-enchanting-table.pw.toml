@@ -1,0 +1,21 @@
+filename = 'disenchanting_table-merged-1.21.1-5.0.2.jar'
+name = 'Dis-Enchanting Table'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.0.2'
+
+[download]
+hash = 'e572401caa0ac178aa1f55eec64510904aaf22924790039d9e8084e6f63bb545aa47904aa9da84e523ca44ea47a0f80440c68d94e369554261eefe58a0846dec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9BgYgXE4/versions/UzZnJKSR/disenchanting_table-merged-1.21.1-5.0.2.jar'
+
+[update.modrinth]
+mod-id = '9BgYgXE4'
+version = 'UzZnJKSR'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9leXt4A5'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'createfurnitureseats-4.6.0.jar'
+name = "[Let's Do] Furniture compat create/sable"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.6.0'
+
+[download]
+hash = 'd9baba523ccff087138324b116ee19cd36c31b52ef8405c4d42b1002a9c4ffffac46a1e19f0221ecfee541a3ab6264157a07a65a0b227cbbbb817df84fcfd1ac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/W2K5jx3j/versions/Y1AquXHF/createfurnitureseats-4.6.0.jar'
+
+[update.modrinth]
+mod-id = 'W2K5jx3j'
+version = 'Y1AquXHF'

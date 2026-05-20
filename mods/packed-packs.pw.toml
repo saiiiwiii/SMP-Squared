@@ -1,0 +1,13 @@
+name = "Packed Packs"
+filename = "packed_packs-neoforge-2.1.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c43e0cdfcd127391ef365b6123b6cc1d43dbf15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7907198
+project-id = 1260514

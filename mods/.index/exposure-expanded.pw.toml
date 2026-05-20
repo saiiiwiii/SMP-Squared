@@ -1,0 +1,29 @@
+filename = 'exposure_expanded-neoforge-1.0.1.jar'
+name = 'Exposure: Expanded'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = '93d8a04ae248afc61b7da6efa512dafeb530d43bb4676cefe6bfd084feb9eb8164e81c13d09894f7247349b5618ffa050ead5b52019f79f3f9bcce670a6aa464'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/61XQmq6p/versions/jXl8swWT/exposure_expanded-neoforge-1.0.1.jar'
+
+[update.modrinth]
+mod-id = '61XQmq6p'
+version = 'jXl8swWT'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hB899VmG'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'WEWiqYkW'
+type = 'OPTIONAL'

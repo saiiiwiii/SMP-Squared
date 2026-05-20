@@ -1,0 +1,25 @@
+filename = 'companions-neoforge-1.21.1-1.2.2.jar'
+name = 'Companions!'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.2'
+
+[download]
+hash = 'ba608dc197ae68494696b88918e570a5470c962108c2c0e0d5a434898a08a4eeeec1b115a130bb5dd3e5baec88e8c4ffc5470a4feaaf7bde6e32b2b5a3279da4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ArBFNu9T/versions/Xy6wE3IT/companions-neoforge-1.21.1-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'ArBFNu9T'
+version = 'Xy6wE3IT'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hAnl9nbm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'create-gunsmithing-1.21.1-1.4.6.jar'
+name = 'Create: Gunsmithing'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.6'
+
+[download]
+hash = '0834fbdb9dbaf6baf4c15eca0f18f09c4cabbecbfc47a04b2d4da8867a547bb075234f7eea40ac41fb4e6d79ca555af298edc76c0fd821cf21897934039eedcc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7KCNsGPM/versions/1w2BHZY6/create-gunsmithing-1.21.1-1.4.6.jar'
+
+[update.modrinth]
+mod-id = '7KCNsGPM'
+version = '1w2BHZY6'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5m2kV8xK'
+type = 'REQUIRED'

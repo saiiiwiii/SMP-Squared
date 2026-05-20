@@ -1,0 +1,65 @@
+filename = 'mcwquark-neoforge-1.21.1-1.6.jar'
+name = "Macaw's Quark"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.6'
+
+[download]
+hash = '518e1fb78b6f794be80c1cc04eb25187f2ce2c275c648657573409caafd2029f869617369e7aecbbf9bfa91379c1bb30a6481a3bd9127676bd58d9ede825f43e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uLtxXFVm/versions/BxzYJK1k/mcwquark-neoforge-1.21.1-1.6.jar'
+
+[update.modrinth]
+mod-id = 'uLtxXFVm'
+version = 'BxzYJK1k'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'cl5ec0Qm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MVARlG2f'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'C7I0BCni'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GmwLse2I'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'n2fvCDlM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kNxa8z3e'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'B8jaH3P1'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'iP3wH1ha'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GURcjz8O'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'dtWC90iB'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VRLhWB91'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qnQsVE2z'
+type = 'REQUIRED'

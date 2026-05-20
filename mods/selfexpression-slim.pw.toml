@@ -1,0 +1,13 @@
+name = "Selfexpression: Slim"
+filename = "selfexpression_slim-1.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee1f4de5e66902cc13f75903d906fc0a41d2f93e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6115515
+project-id = 1128335

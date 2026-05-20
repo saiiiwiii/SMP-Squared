@@ -1,0 +1,13 @@
+name = "Macaw's Quark"
+filename = "mcwquark-neoforge-1.21.1-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5273c9f04391561c5c80fd2c3139d167b6ca81d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7651066
+project-id = 1091564

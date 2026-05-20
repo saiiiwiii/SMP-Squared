@@ -1,0 +1,13 @@
+name = "SMP Squared"
+author = "Sai"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2852d9145ffcf73edc71ab9e34ab4b6cb78bc43bcefd078d28dfecafe3a68afd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"

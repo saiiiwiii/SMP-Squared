@@ -1,0 +1,13 @@
+name = "Forgematica"
+filename = "forgematica-0.4.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ef9d8fd67791217a10f3243ed66764e254cd470"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7106550
+project-id = 912441

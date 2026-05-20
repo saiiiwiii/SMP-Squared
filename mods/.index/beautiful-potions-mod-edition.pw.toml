@@ -1,0 +1,18 @@
+filename = 'BTP-NeoForge-1.21.1-2.0.0.jar'
+name = 'Beautiful Potions [MOD EDITION]'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0'
+
+[download]
+hash = '06e5ba0f38387c4d8bc2270c68c0cb5513ee0388a2bf70f3ce411307e8b5502ee798909daf5ade7102d61450d9f74f7fcfbe0e10f13ac38187c7afbd54fb7a7c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H3a6cFKr/versions/vqTqpsod/BTP-NeoForge-1.21.1-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'H3a6cFKr'
+version = 'vqTqpsod'

@@ -1,0 +1,18 @@
+filename = 'hearthandharvest-1.21.1-1.2.1a.jar'
+name = 'Hearth and Harvest'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.1a'
+
+[download]
+hash = 'ab1545b31b9543c777db7f62d8c4dc07947a6241902a92ab119feb1a5597595c66db2e1800ffedb6b67302d4f862eb9b7c7409d37655477bbbb20f1b1881d1f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8EEEXOzj/versions/Wqj2leb0/hearthandharvest-1.21.1-1.2.1a.jar'
+
+[update.modrinth]
+mod-id = '8EEEXOzj'
+version = 'Wqj2leb0'

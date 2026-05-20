@@ -1,0 +1,21 @@
+filename = 'yo_hooks-4.7.0beta.jar'
+name = "Yori3o's Grappling Hooks"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '4.7.0beta'
+
+[download]
+hash = 'cbf99a49f7fcfe0ba7113be7cff818d15a3a4f322aaa3c9e04fc770a2764903e900a35ca7f2ee8c171605d4d7c83a5fc03de2dfeab730a8b9bf39a2cd9dcf4d4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t1p8V2nl/versions/zql83350/yo_hooks-4.7.0beta.jar'
+
+[update.modrinth]
+mod-id = 't1p8V2nl'
+version = 'zql83350'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'OPTIONAL'

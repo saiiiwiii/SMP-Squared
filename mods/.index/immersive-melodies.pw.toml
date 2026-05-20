@@ -1,0 +1,21 @@
+filename = 'immersive_melodies-neoforge-0.6.4+1.21.1.jar'
+name = 'Immersive Melodies'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.6.4+1.21.1'
+
+[download]
+hash = '783fda607b23d4f164623e6fcb0fe6ce7005ed6af1b66f180d7e600136abc001f3c6f2199f52a234c2dbc1c4a39399ce46b81031586e26be540ffb7117223ea1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TaSmHw8V/versions/FRJWinhs/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'TaSmHw8V'
+version = 'FRJWinhs'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'FPZYoBeQ'
+type = 'OPTIONAL'

@@ -1,0 +1,18 @@
+filename = 'LuminousBeasts V1.2.6 - NeoForge 1.21.1.jar'
+name = 'Luminous: Beasts'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.6'
+
+[download]
+hash = '69f8a1d4dfc9c45af1304caaf13029423c9509691161ae86d5d8c45c6e354c16bf4caea9f62d7359fee83a49a00c484c97b5021405a3c091b29ca7805f7bc391'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fGCP5k6m/versions/cejVRyQ1/LuminousBeasts V1.2.6 - NeoForge 1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'fGCP5k6m'
+version = 'cejVRyQ1'

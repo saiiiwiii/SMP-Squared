@@ -1,0 +1,13 @@
+name = "FastFood Delight Unofficial"
+filename = "FastFoodDelightUnofficial-neoforge-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8b2c5b330744ac11870428f9d21aefb88d5725e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6086569
+project-id = 1100236

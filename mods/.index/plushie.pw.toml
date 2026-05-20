@@ -1,0 +1,22 @@
+filename = 'plushies-neoforge-1.5.1.jar'
+name = 'Plushie Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.5.1-neoforge'
+
+[download]
+hash = '7b4c9291b2daba97e83f7874b11c28509c8d0cffbfa092f1f793ebbd3b4b22086b902a0655ddea1ea460d3e9be61c47c9c65f5102bf8b7cb7815c4add017087f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hsOK0gUP/versions/ve5iOIXD/plushies-neoforge-1.5.1.jar'
+
+[update.modrinth]
+mod-id = 'hsOK0gUP'
+version = 've5iOIXD'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+version = 'zQZVt59v'

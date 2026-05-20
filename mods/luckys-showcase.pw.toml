@@ -1,0 +1,13 @@
+name = "Lucky's Showcase"
+filename = "luckysshowcase-neoforge-1.21.1-21.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a743625ad0474d267667d13a60f021b5f7a4bbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6524629
+project-id = 1159421

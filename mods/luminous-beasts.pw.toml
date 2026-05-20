@@ -1,0 +1,13 @@
+name = "LUMINOUS: BEASTS"
+filename = "LuminousBeasts V1.2.6 - NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d20661db92e8abeea2163e030d4e29c43c5ff5ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7368091
+project-id = 1089627

@@ -1,0 +1,21 @@
+filename = 'piggyback-neoforge-1.21.1-1.1.1.jar'
+name = 'Piggyback'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = '5ba29acc66d5782af44d9d4e3807ad249e1c16a33e0be870e194b59f7d9b5d09ca88081585a91be306866ef3e1004adb83fcbe7a062b3fb842c09de6192d8991'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yP77bAiA/versions/zBNKQZnP/piggyback-neoforge-1.21.1-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'yP77bAiA'
+version = 'zBNKQZnP'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'q4N9H96q'
+type = 'REQUIRED'

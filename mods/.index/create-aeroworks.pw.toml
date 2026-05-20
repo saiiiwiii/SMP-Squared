@@ -1,0 +1,25 @@
+filename = 'aeroworks-1.2.9.jar'
+name = 'Create: Aeroworks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.9+mc1.21.1'
+
+[download]
+hash = '3713a65a8c76f7c59c62a0d4015bd923b9c6179f3b475422ee44b69b58487ec4550debcc8c583db701a8d3cf0dc79cd3976cff959ddf8149c1fc1cb3b9ee7746'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P26k79kP/versions/LKsY0cFi/aeroworks-1.2.9.jar'
+
+[update.modrinth]
+mod-id = 'P26k79kP'
+version = 'LKsY0cFi'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

@@ -1,0 +1,13 @@
+name = "Diversity!"
+filename = "diversity-neoforge-1.21.1-2.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ec082811b561861c92419ee41daac1575d68745"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6896469
+project-id = 1039632

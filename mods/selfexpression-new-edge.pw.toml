@@ -1,0 +1,13 @@
+name = "Selfexpression: New Edge"
+filename = "selfexpression_new_edge-1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a0cae2926da1acc0cf8b6a025933c003011492d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6505856
+project-id = 1260676

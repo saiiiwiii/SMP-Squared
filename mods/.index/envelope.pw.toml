@@ -1,0 +1,18 @@
+filename = 'envelope-neoforge-1.21.1-0.6.0.jar'
+name = 'Envelope'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.6.0'
+
+[download]
+hash = 'b27e62b374d3772fb36091a879ed5f142877244dd1fedafb5be8f8832ffe25ee5e3a0b870110b497fe2382864711282d6839e402aee1e964c960037e5ea7c268'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bINSbhYK/versions/h7wqtGVY/envelope-neoforge-1.21.1-0.6.0.jar'
+
+[update.modrinth]
+mod-id = 'bINSbhYK'
+version = 'h7wqtGVY'

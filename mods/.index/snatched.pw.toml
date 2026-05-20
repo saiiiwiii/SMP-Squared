@@ -1,0 +1,18 @@
+filename = 'snatched-1.2.0-neoforge-1.21.1.jar'
+name = 'Snatched (Kidnap)'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = '38318a66a0d31262a1f91239653a537a4d4863289bc2630f278ca7d82b48f4810dc170bfbd79aa573945ae8161cb7e1acd157e36b7cfc046088852bf598802e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FrAFqCoe/versions/kK45KwKA/snatched-1.2.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'FrAFqCoe'
+version = 'kK45KwKA'

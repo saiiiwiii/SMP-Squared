@@ -1,0 +1,13 @@
+name = "Hats Renewed"
+filename = "HatsRenewed-21.1.0-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G7zR9HGM/versions/ksT1xQad/HatsRenewed-21.1.0-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "725477ee7faf4eb7dd971eb3cd58abe4240a0cfafc5d057ec2880c047a0f23b7b3d6f78e1d6b9dd11e90e1656b049f2ee81c115bf0616ba34b9dc6adcf1765a3"
+
+[update]
+[update.modrinth]
+mod-id = "G7zR9HGM"
+version = "ksT1xQad"

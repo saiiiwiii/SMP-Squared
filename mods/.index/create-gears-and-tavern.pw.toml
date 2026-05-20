@@ -1,0 +1,18 @@
+filename = 'creategearsandtavern-1.1.4.jar'
+name = 'Create: Gears and Tavern'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.4'
+
+[download]
+hash = 'cfc819eb8759e1c33f2c8220bdec25b42378fbd66ee17e7d0facd758791e5312989b37a0f1fbbbea84add7a97449b40298f4762fb96349f04cc64c5aeb68eb47'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZjAeukl9/versions/xC1TQq8S/creategearsandtavern-1.1.4.jar'
+
+[update.modrinth]
+mod-id = 'ZjAeukl9'
+version = 'xC1TQq8S'

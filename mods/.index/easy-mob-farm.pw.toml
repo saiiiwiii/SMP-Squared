@@ -1,0 +1,18 @@
+filename = 'easy_mob_farm-neoforge-1.21.1-10.7.0.jar'
+name = 'Easy Mob Farm'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '10.7.0'
+
+[download]
+hash = 'b71ff1594d0cbded8f94bba7d44c0cd1e4e43d4551598a8fa0c14c0a036a1544a4b33e4cd3e069f1f8378305d6c734eb0cd41af2d1afb8cda0c9463069784207'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/crxsDbEo/versions/tZVafRmX/easy_mob_farm-neoforge-1.21.1-10.7.0.jar'
+
+[update.modrinth]
+mod-id = 'crxsDbEo'
+version = 'tZVafRmX'

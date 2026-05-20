@@ -1,0 +1,33 @@
+filename = 'pipez-neoforge-1.21.1-1.2.19.jar'
+name = 'Pipez'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'neoforge-1.21.1-1.2.19'
+
+[download]
+hash = 'a7ee4d21c2060392a676ff9186d9445a0e000b65c2430750284c9555170e7ec0b802e7967f1864e4a4cb169097e7b92b1bc8751bf708247e6943868c4cd7dff0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iRmWy6ga/versions/z20ZR1YE/pipez-neoforge-1.21.1-1.2.19.jar'
+
+[update.modrinth]
+mod-id = 'iRmWy6ga'
+version = 'z20ZR1YE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ce6I4WUE'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Eyw0UxEx'
+type = 'OPTIONAL'

@@ -1,0 +1,21 @@
+filename = 'trashslot-neoforge-1.21.1-21.1.10.jar'
+name = 'TrashSlot'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.10+neoforge-1.21.1'
+
+[download]
+hash = '024288034f5866dcb2f0ce00c19dcac66bf62903ef12fcaa169aa285def0facd9212f8796ef9345049e1c112cf9743c9f64da1fb5e0f56254d9302c9a5fac5fc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vRYk0bv7/versions/JRxmKPV9/trashslot-neoforge-1.21.1-21.1.10.jar'
+
+[update.modrinth]
+mod-id = 'vRYk0bv7'
+version = 'JRxmKPV9'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'

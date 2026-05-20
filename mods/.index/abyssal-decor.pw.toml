@@ -1,0 +1,18 @@
+filename = 'abyssal_decor_1.21.1_0.10.0_Neoforge.jar'
+name = 'Abyssal Decor'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.10.0'
+
+[download]
+hash = 'd47f9a318ee726f03d366fa25a36f53a32eea34682720aa6810c24162a06cbdb6d58c569493d38a38c061a825aa9f21d256543c26555c35441e4355957c7055e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dzmhUvoY/versions/GCBLIGA6/abyssal_decor_1.21.1_0.10.0_Neoforge.jar'
+
+[update.modrinth]
+mod-id = 'dzmhUvoY'
+version = 'GCBLIGA6'

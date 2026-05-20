@@ -1,0 +1,18 @@
+filename = 'Luminous Tag V1.1 - NeoForge 1.21.1.jar'
+name = 'Luminous Tag'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
+
+[download]
+hash = '1841f9746d82be0449ec74c9f7db76a4d089ec07639aacdeac393f677abc49a6d8744b2a4ea775517a769db207cd611c4a3430a8661c2e3db452d2554271281e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uX4Rl6YL/versions/ksV9kNVX/Luminous Tag V1.1 - NeoForge 1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'uX4Rl6YL'
+version = 'ksV9kNVX'

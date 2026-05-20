@@ -1,0 +1,13 @@
+name = "Create: Gears and Tavern"
+filename = "creategearsandtavern-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45671dd017b40db853a8f677a42523a465bda20b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8098367
+project-id = 1504275

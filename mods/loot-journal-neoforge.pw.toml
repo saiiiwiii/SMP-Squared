@@ -1,0 +1,13 @@
+name = "Loot Journal: Pickup Notifier [NeoForge Edition]"
+filename = "loot_journal-neoforge-1.21.1-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d788686590699cd605490c8eea35aeded899edc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5811502
+project-id = 1120395

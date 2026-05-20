@@ -1,0 +1,13 @@
+name = "Rats Pack"
+filename = "Rats_pack-1.0.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/USfcIkVh/versions/JUZ7B1c0/Rats_pack-1.0.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "03525f2b087f25971089912b79cd063aea3809ec7a03bed7423d9a401723489616ec5722d9150fad2e904062d6ecdaa0d19d44a9bac829973d03f1a934b9a2b7"
+
+[update]
+[update.modrinth]
+mod-id = "USfcIkVh"
+version = "JUZ7B1c0"

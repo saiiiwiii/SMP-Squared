@@ -1,0 +1,21 @@
+filename = 'letsdo-meadow-neoforge-1.4.8.jar'
+name = "[Let's Do] Meadow"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.8'
+
+[download]
+hash = 'a45a42b1789c3c979e91bc65c422bf5832d514005a82def3860d812a9bf02a2a6d5079d53f625d976b09585cecda8f1d26802b310ce2e44751c5f5c930efe50d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ra7o6Sl7/versions/GwAjZwzx/letsdo-meadow-neoforge-1.4.8.jar'
+
+[update.modrinth]
+mod-id = 'ra7o6Sl7'
+version = 'GwAjZwzx'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

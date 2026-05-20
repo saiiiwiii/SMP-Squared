@@ -1,0 +1,25 @@
+filename = 'camera-neoforge-1.21.1-1.0.21.jar'
+name = 'Camera Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'neoforge-1.21.1-1.0.21'
+
+[download]
+hash = '61da467f7d43af4a9057bc2e9fbea749fd9b94a6c1a8ecb52ff31d36d3ae815031fa1881c3b9df22a20073bc15d04dfac45e683513eefbb70aab0c855dee3d8c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oiuNWinn/versions/Etw6aqhL/camera-neoforge-1.21.1-1.0.21.jar'
+
+[update.modrinth]
+mod-id = 'oiuNWinn'
+version = 'Etw6aqhL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'OPTIONAL'

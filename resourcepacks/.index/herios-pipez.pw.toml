@@ -1,0 +1,40 @@
+filename = 'Herios_pipez-1.20.1.zip'
+name = "Herios' Pipez"
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '8973609c6597fbabb167f52f3e2389951b9e5d034be7cd747ad47ea92dd1eb929e93adde736a3913815aefed98cda649b9b8492d822774b18b8ee5ef21ef2e36'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GfdqpOiN/versions/HUQ71De9/Herios_pipez-1.20.1.zip'
+
+[update.modrinth]
+mod-id = 'GfdqpOiN'
+version = 'HUQ71De9'

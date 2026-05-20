@@ -1,0 +1,13 @@
+name = "CosmeticArmours"
+filename = "CosmeticArmours - 1.5.3.1 - 1.21.1 - NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "433e6df6026eaa1fef791e8c4efc982c444ec046"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7211088
+project-id = 630406

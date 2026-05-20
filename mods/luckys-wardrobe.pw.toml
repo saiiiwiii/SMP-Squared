@@ -1,0 +1,13 @@
+name = "Lucky's Wardrobe"
+filename = "luckyswardrobe-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0a37d721fa30e499e945af5782e1e1e83c70427"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6664255
+project-id = 968067

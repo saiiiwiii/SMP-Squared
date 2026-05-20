@@ -1,0 +1,21 @@
+filename = 'watervision-NF-mc1.21.1-v0.1.0-alpha.jar'
+name = 'WATERViSION: VideoPlayer'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NF-mc1.21.1-v0.1.0-alpha'
+
+[download]
+hash = '747551417e2dcf82671062dda8028b340d4b4ca9ee02de081679e51a1966b996d50ba10a52232ed4e1c4db7d011a2268fbdae14633a485794df529b4c5460be3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dGGbEGoV/versions/fYHfGRbK/watervision-NF-mc1.21.1-v0.1.0-alpha.jar'
+
+[update.modrinth]
+mod-id = 'dGGbEGoV'
+version = 'fYHfGRbK'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'G922NeHS'
+type = 'REQUIRED'
