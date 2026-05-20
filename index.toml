@@ -9160,6 +9160,11 @@ hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
 file = "mods/plushie-mod.pw.toml"
 hash = "3c51672c9db76906594697cf35d3bda369b39ce9968758b3be5146eec8f0bdef"
 metafile = true
