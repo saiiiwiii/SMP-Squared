@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packignore"
-hash = "bb3f696a11b3e4c26394729ab9c2ba5555e4fe06b8885ccf5ca828a9cb40c03a"
+hash = "bf947cba3f8356d0089b3cb3b4573c167c6325b30ef63b49874e969f96077258"
 
 [[files]]
 file = "config/ClickMobs/config.yml"
