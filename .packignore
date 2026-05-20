@@ -39,3 +39,8 @@ minecraft/usernamecache.json
 minecraft/win_event1779255223805.txt
 minecraft/xaero
 desktop.ini
+**/desktop.ini
+Thumbs.db
+**/Thumbs.db
+instance.cfg
+mmc-pack.json

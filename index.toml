@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packignore"
-hash = "c4b6983087db8c1d3155a6eae8ed9f289825bf80f2e206f8179252a707c93526"
+hash = "f6fbac737870501a3cfa2ed3b1ed77d3fcfe01371effe69a53a38fc84425bd93"
 
 [[files]]
 file = "README.md"
@@ -8454,10 +8454,6 @@ metafile = true
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
-
-[[files]]
-file = "mods/desktop.ini"
-hash = "27991cd3e2892702f610fd5262898f1c3dfa37e2a05082fd793bce61e99e2d98"
 
 [[files]]
 file = "mods/dis-enchanting-table.pw.toml"
