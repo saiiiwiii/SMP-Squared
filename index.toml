@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packignore"
-hash = "f6fbac737870501a3cfa2ed3b1ed77d3fcfe01371effe69a53a38fc84425bd93"
+hash = "bb3f696a11b3e4c26394729ab9c2ba5555e4fe06b8885ccf5ca828a9cb40c03a"
 
 [[files]]
 file = "README.md"

@@ -44,3 +44,4 @@ Thumbs.db
 **/Thumbs.db
 instance.cfg
 mmc-pack.json
+.git*
