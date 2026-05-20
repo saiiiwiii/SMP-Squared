@@ -6265,10 +6265,6 @@ file = "emotes/Categories/Sit/MIEM_sittingwithyourkneestothechest.png"
 hash = "9918f2b60a1c2373f8dbdd6a8b5b3a67cfaca1ce8745c6bcefb4058c2c161c3c"
 
 [[files]]
-file = "instance.cfg"
-hash = "38cfaa4e57df7aa1ea7fbda4d00d77552e88f56b3c4e4531910fa9952b9e3c31"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -9656,6 +9652,10 @@ hash = "91e8303b22d921074619252b9b66b9fc2127c97aa7a6d487f39056900c091547"
 [[files]]
 file = "resourcepacks/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip"
 hash = "c2c89dbffd3d45e569ecb0c2e21f781c849ddde9a5fc371268dbd5b62460b6b4"
+
+[[files]]
+file = "servers.dat"
+hash = "eaeea31268e1791d8be0f13a9b583e2a2548850cc352357fec5827ea890d9301"
 
 [[files]]
 file = "shaderpacks/BSL_v10.1.3.zip"
