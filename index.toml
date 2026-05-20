@@ -6265,10 +6265,6 @@ file = "emotes/Categories/Sit/MIEM_sittingwithyourkneestothechest.png"
 hash = "9918f2b60a1c2373f8dbdd6a8b5b3a67cfaca1ce8745c6bcefb4058c2c161c3c"
 
 [[files]]
-file = "instance.cfg"
-hash = "38cfaa4e57df7aa1ea7fbda4d00d77552e88f56b3c4e4531910fa9952b9e3c31"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
