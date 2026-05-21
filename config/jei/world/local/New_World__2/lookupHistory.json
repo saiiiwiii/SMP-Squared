@@ -1,4 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:slowness","show_icon":true,"neoforge:cures":["protected_by_totem","milk"],"duration":600},"type":"net.minecraft.world.effect.MobEffectInstance","bookmarkType":"INGREDIENT"}
-]

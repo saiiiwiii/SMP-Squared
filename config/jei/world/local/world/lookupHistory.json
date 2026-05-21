@@ -1,7 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"simplymore:the_blood_harvester"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"simplymore:runic_dagger"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"simplymore:runic_pernach"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"quark:stripped_spruce_post"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
