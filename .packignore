@@ -1,13 +1,6 @@
-config/
-config/**
 
 defaultconfigs/
 defaultconfigs/**
-
-
-emotes/
-emotes/**
-
 saves/
 screenshots/
 logs/
