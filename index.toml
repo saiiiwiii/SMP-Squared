@@ -8083,6 +8083,11 @@ hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
 
 [[files]]
+file = "mods/bloos-gacha-machine.pw.toml"
+hash = "525756544fa6d8565535ffab7ca6651d228a17157085accce98e3ffd8c5ae667"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "cb564821fb109f3cd53c9e82d3604685d5a9414098c293bc95618e6776315dce"
 metafile = true
