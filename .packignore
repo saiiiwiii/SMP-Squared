@@ -46,3 +46,5 @@ instance.cfg
 mmc-pack.json
 .git*
 README.md
+emotes/
+emotes/**
