@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packignore"
-hash = "ea328e47a5c7809633f4dabdeca26f21256c5a38414d57112d20964681c99579"
+hash = "aab4774546b1d15458fdb47023f6eb62db70dfa1697fd0db29e5de8558e88ea7"
 
 [[files]]
 file = "kubejs/README.txt"

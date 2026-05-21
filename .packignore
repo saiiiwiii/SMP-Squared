@@ -4,11 +4,6 @@ config/**
 defaultconfigs/
 defaultconfigs/**
 
-shaderpacks/
-shaderpacks/**
-
-resourcepacks/
-resourcepacks/**
 
 emotes/
 emotes/**
