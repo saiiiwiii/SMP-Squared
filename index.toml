@@ -6768,11 +6768,6 @@ hash = "bfcfd208d509f6e653b76ec71fb7274970ac19b16b4487f09518e153a7d4778e"
 metafile = true
 
 [[files]]
-file = "mods/.index/create-stuff-and-addition-tank-fix.pw.toml"
-hash = "0379c885ead7d42cdf50d17006510d92a117ccd6ca44ffb7960c2143dea3d79a"
-metafile = true
-
-[[files]]
 file = "mods/.index/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
 hash = "21b2c47ed87f8b3ea40fac1f107d18f58df9bc725a561f37c67cb2bd687f0738"
 metafile = true
@@ -8380,11 +8375,6 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "0ec6556e7e1c8d7b5ee522656adcd51ff59629e589409128241794f7d677c422"
-metafile = true
-
-[[files]]
-file = "mods/create-stuff-and-addition-tank-fix.pw.toml"
-hash = "e65133a8c56c3c5f50493ca1d9f39de5c03db6710776c2f4a7e549484fca5686"
 metafile = true
 
 [[files]]
