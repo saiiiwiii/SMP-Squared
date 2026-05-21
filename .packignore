@@ -25,3 +25,4 @@ options.txt
 README.md
 .git*
 xaero
+**/debug.json
