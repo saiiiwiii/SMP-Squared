@@ -26,3 +26,4 @@ README.md
 .git*
 xaero
 **/debug.json
+config/almostunified/debug.json
