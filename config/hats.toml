@@ -1,0 +1,53 @@
+# =============================================================
+# Hats-renewed configuration
+# Edit values and restart the game (or reload the world) for
+# changes to apply. Lines starting with # are comments.
+# =============================================================
+
+[server]
+
+# Hats that will never roll as a random mob hat. Use the hat's
+# display name as shown in the hat menu, e.g. ["Top Hat", "Garland"].
+hat_blacklist = []
+
+# If true, hats stay visible even when the wearing entity is invisible
+# (invisibility potion, spectator, etc). Default: false.
+hats_show_when_invisible = false
+
+# If true, undead mobs (zombies, skeletons, drowned, husks, etc)
+# that are wearing a hat will not burn in sunlight. Other fire
+# sources (lava, fire blocks, flame arrows, etc) still harm them.
+# Default: false.
+hats_prevent_undead_fire = false
+
+# If true, hats marked as contributor hats (the cyan-colored '(C)'
+# hats submitted by community contributors) are completely removed
+# from the registry: they won't spawn on mobs and won't show in the
+# hat menu. Default: false.
+disable_contributor_hats = false
+
+# If true, a chat message is broadcast to all players whenever one
+# of them unlocks a new hat for the first time. The hat name is
+# colored by rarity and hovering shows its info. Default: false.
+hat_unlock_chat_announcement = false
+
+# Per-rarity hat spawn chance. Each mob rolls once; the rarity is
+# picked by cumulative probability from common -> legendary. The sum
+# of all values is the overall chance a mob receives any hat.
+# Values are fractions in 0.0-1.0 (0.10 = 10%). Accepts '10%' too.
+[server.spawn_chance]
+common    = 0.1
+uncommon  = 0.08
+rare      = 0.05
+epic      = 0.03
+legendary = 0.02
+
+[client]
+
+# Maximum number of hats that may be rendered in a single frame.
+# Lower this if you see FPS drops in crowded areas. Default: 64.
+max_hats_on_screen = 250
+
+# If true, show the 'New Hat Unlocked!' toast popup when you pick
+# up a hat you didn't own. Default: true.
+display_hat_unlock_toast = true
