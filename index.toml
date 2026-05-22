@@ -805,10 +805,6 @@ file = "config/boatiview-client.toml"
 hash = "0f77a8f879355f4115a894acb56161a164d826ce8af335f0522cdd0f8d0d9a52"
 
 [[files]]
-file = "config/bobby.conf"
-hash = "fce659cc919b639145d6592e889eabeb6da733a3db1dd304eb83c17488d5c51f"
-
-[[files]]
 file = "config/brewinandchewin-client.toml"
 hash = "8e7861a1c13f1169b024f17922e99eed9e7b2c9799c949c00c51ebda216e56f9"
 
@@ -6498,11 +6494,6 @@ hash = "14eedfbd626de7667be11336416bdd43e48a351529bb7f2be28f2236fd8a42f5"
 metafile = true
 
 [[files]]
-file = "mods/.index/bobby-reneoforged.pw.toml"
-hash = "1f3596e40d3c86dd95dc53e795cf1e0a282b5cbedf39e94410245ea9e1e9d846"
-metafile = true
-
-[[files]]
 file = "mods/.index/bookshelf-lib.pw.toml"
 hash = "ba3081449d58c1d0b3438c1fa238c6de65067bb1f00b42c22604321e26ecf1fc"
 metafile = true
@@ -8090,11 +8081,6 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view-forge.pw.toml"
 hash = "c9bddfd011a93a6ab2fc5fd9dea8ce1bf27275a6cf1ff50fe9562fdec9f2962e"
-metafile = true
-
-[[files]]
-file = "mods/bobby-reneoforged.pw.toml"
-hash = "aaf1ff9ab1cca3168f90ad97f32356aaa4dd1b56ec98d120a5384e1bfd372f75"
 metafile = true
 
 [[files]]
