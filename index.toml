@@ -8369,11 +8369,6 @@ hash = "3fd629d483c750e80a6e450ce0f350b5a15dc6d206fbe7124d5230abd7f164ac"
 metafile = true
 
 [[files]]
-file = "mods/create-radars.pw.toml"
-hash = "17e0ed5952ada576c3cd5f141637e5a7a9e769a68f8af1ce5902cc04e482996f"
-metafile = true
-
-[[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "71fa04ae6430da94fb8369e2f6153e3d7bdb42a905559d0c6745560bf18611b9"
 metafile = true
