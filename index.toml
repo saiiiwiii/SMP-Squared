@@ -8259,11 +8259,6 @@ hash = "0c79e3caa8d94a77f96540b045ffaad071ef3ad1593bccf6adebbc01df5d08e8"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-copycat-wing.pw.toml"
-hash = "d9da6f44569de489f724eba7bc000848a3d103c221fb0f73865f629d08680e57"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-dyeable-components.pw.toml"
 hash = "42cb201dda80fef522d8284268601f5cad9de3cd279f11354960028a6f6f270b"
 metafile = true
