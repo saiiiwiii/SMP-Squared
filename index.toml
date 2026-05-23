@@ -8204,6 +8204,11 @@ hash = "9edfcf5022b68ae0234b2d5c15b710fc3f27407d84aeeb917615dffbd42c8b92"
 metafile = true
 
 [[files]]
+file = "mods/copycat-sails-and-compat.pw.toml"
+hash = "6c12054814dd434fce924d9ba00d20c4943f75a4f936046bca2a25db3529ae5b"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -8261,6 +8266,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-dyeable-components.pw.toml"
 hash = "42cb201dda80fef522d8284268601f5cad9de3cd279f11354960028a6f6f270b"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-lift-patch.pw.toml"
+hash = "434d92388783bd89bfad57891f43b7bab9b9c3b16800fd1d8de5f76049a2f304"
 metafile = true
 
 [[files]]
@@ -8324,6 +8334,11 @@ hash = "37c21deaf7e65569fa9dcc59a477a55ab8937153c591f1bc4d6249de9582044f"
 metafile = true
 
 [[files]]
+file = "mods/create-ender-transmission.pw.toml"
+hash = "dba1cec5505db9aa2a65d9cc14f017a956a6e2044c006db1d48ff92c59871992"
+metafile = true
+
+[[files]]
 file = "mods/create-gears-and-tavern.pw.toml"
 hash = "9ba9a3057af598e437c08282ab89079e525a0431b53a82904afc54f317c7aeee"
 metafile = true
@@ -8351,6 +8366,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "3fd629d483c750e80a6e450ce0f350b5a15dc6d206fbe7124d5230abd7f164ac"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "17e0ed5952ada576c3cd5f141637e5a7a9e769a68f8af1ce5902cc04e482996f"
 metafile = true
 
 [[files]]
