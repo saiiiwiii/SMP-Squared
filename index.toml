@@ -6694,11 +6694,6 @@ hash = "d232fcd0146fe483381d87c1ce4a6ebba6a9282a81b0e3ad048c5af2cc08b704"
 metafile = true
 
 [[files]]
-file = "mods/.index/create-diesel-generators.pw.toml"
-hash = "9e6e9e3d5f93e77d45b57e6219998b3604b58a628c76d4762ed06deaf9e98e71"
-metafile = true
-
-[[files]]
 file = "mods/.index/create-dragons-plus.pw.toml"
 hash = "7bb75c6d0fa987bf9d661e988c65563ac962f27a5e80eba9fed3f981fafa243f"
 metafile = true
@@ -8325,7 +8320,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "50663223d2325f84a904ab5aff8bf1078bf7a7d7756e96fd3722589e0ead2dae"
+hash = "9e6e9e3d5f93e77d45b57e6219998b3604b58a628c76d4762ed06deaf9e98e71"
 metafile = true
 
 [[files]]
